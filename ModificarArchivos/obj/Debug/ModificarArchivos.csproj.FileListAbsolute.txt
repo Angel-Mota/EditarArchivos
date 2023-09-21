@@ -1,0 +1,8 @@
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\bin\Debug\ModificarArchivos.exe.config
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\bin\Debug\ModificarArchivos.exe
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\bin\Debug\ModificarArchivos.pdb
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\obj\Debug\ModificarArchivos.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\obj\Debug\ModificarArchivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\obj\Debug\ModificarArchivos.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\obj\Debug\ModificarArchivos.exe
+C:\Users\angel\source\repos\ModificarArchivos\ModificarArchivos\obj\Debug\ModificarArchivos.pdb
